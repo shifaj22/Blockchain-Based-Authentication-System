@@ -7,11 +7,12 @@ Gas fees associated with storing data on the blockchain can discourage users fro
 An alternative approach is to store this information either on IPFS for public use or a private blockchain for business applications, reducing or eliminating gas fees for the sign-up process.
 Gas fees can be limited to the sign-up stage, and subsequent login processes can be gas-free by validating the data signature without the need to write data to the smart contract.
 A smart contract with JavaScript functions can facilitate the validation process, ensuring secure and efficient authentication without persistent gas costs.
+
 Installation steps:
 
-Make sure you have installed Ganache GUI.
-Truffle suite
-git clone https://github.com/shifaj22/Blockchain-Based-Authentication-System
-npm install
-truffle migrate --reset
-npm run start
+- Make sure you have installed Ganache GUI.
+- Truffle suite
+- git clone https://github.com/shifaj22/Blockchain-Based-Authentication-System
+- npm install
+- truffle migrate --reset
+- npm run start
