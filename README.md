@@ -13,6 +13,7 @@ Installation steps:
 - Make sure you have installed Ganache GUI.
 - Truffle suite
 - git clone https://github.com/shifaj22/Blockchain-Based-Authentication-System
+- cd client
 - npm install
 - truffle migrate --reset
 - npm run start
